@@ -13,7 +13,7 @@ Out of all customers, only 6.4% made an insurance claim — meaning 93.6% did no
 Key Findings
 
 Customer Profile
-Finding:** Age does not predict claim behavior.
+Finding: Age does not predict claim behavior.
 - Average age of customers who claimed: **45 years old**
 - Average age of customers who did not claim: **45 years old**
 - Both groups have the same average age, meaning age alone is not a reliable predictor of claims.
@@ -43,7 +43,7 @@ predictors of claims than customer demographics.
 
 ---
 
-Report 3 — Regional Analysis
+Regional Analysis
 Finding 1 — Region:
 - C18 region has the highest claim rate at over 10%, significantly above the 6.4% average.
 - However, C18 is a small region with only 242 customers and 26 total claims — its high
@@ -60,7 +60,7 @@ premium pricing strategies.
 
 ---
 
-Report 4 — Safety Features
+Safety Features
 Finding 1 — Airbags:
 - Customers with MORE airbags have HIGHER claim rates.
 - This is likely not caused by airbags themselves but by the fact that vehicles
