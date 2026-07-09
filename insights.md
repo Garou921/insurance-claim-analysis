@@ -97,6 +97,7 @@ Limitations
 
 Tools Used
 - PostgreSQL — data cleaning and analysis
+- Python (pandas, matplotlib) — analysis and visualization
 - pgAdmin 4 — query execution and data exploration
 
 ---
